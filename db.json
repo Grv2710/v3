@@ -9,7 +9,7 @@
       "priceRange": "$250,000 – $400,000",
       "leadSource": "Open House",
       "dateAdded": "18th May, 2025",
-      "dateClosed": "-",
+      "dateClosed": "N/A",
       "otherBuyerNames": [
         {
           "buyerId": 1,
@@ -20,18 +20,18 @@
           "priceRange": "$400,000 – $600,000",
           "leadSource": "Web",
           "dateAdded": "2nd June, 2025",
-          "dateClosed": "-"
+          "dateClosed": "N/A"
         },
         {
           "buyerId": 2,
           "name": "patel",
-          "role": "-",
+          "role": "N/A",
           "stage": "Active",
           "lastOnline": "5th July, 2025",
           "priceRange": "$400,000 – $600,000",
           "leadSource": "Web",
           "dateAdded": "2nd June, 2025",
-          "dateClosed": "-"
+          "dateClosed": "N/A"
         }
       ]
     },
@@ -41,10 +41,10 @@
       "role": "Seller",
       "stage": "Active",
       "lastOnline": "21st June, 2025",
-      "priceRange": "-",
+      "priceRange": "N/A",
       "leadSource": "Zillow",
       "dateAdded": "18th May, 2025",
-      "dateClosed": "-",
+      "dateClosed": "N/A",
       "otherBuyerNames": []
     },
     {
@@ -56,7 +56,7 @@
       "priceRange": "$400,000 – $600,000",
       "leadSource": "Web",
       "dateAdded": "2nd June, 2025",
-      "dateClosed": "-",
+      "dateClosed": "N/A",
       "otherBuyerNames": []
     }
   ],
