@@ -1,0 +1,64 @@
+{
+  "clients": [
+    {
+      "clientHouseHoldId": 1,
+      "name": "McCarthys",
+      "role": "Buyer",
+      "stage": "Pending",
+      "lastOnline": "27th May, 2025",
+      "priceRange": "$250,000 – $400,000",
+      "leadSource": "Open House",
+      "dateAdded": "18th May, 2025",
+      "dateClosed": "-",
+      "otherBuyerNames": [
+        {
+          "buyerId": 1,
+          "name": "pawan",
+          "role": "Buyer",
+          "stage": "Active",
+          "lastOnline": "5th July, 2025",
+          "priceRange": "$400,000 – $600,000",
+          "leadSource": "Web",
+          "dateAdded": "2nd June, 2025",
+          "dateClosed": "-"
+        },
+        {
+          "buyerId": 2,
+          "name": "patel",
+          "role": "-",
+          "stage": "Active",
+          "lastOnline": "5th July, 2025",
+          "priceRange": "$400,000 – $600,000",
+          "leadSource": "Web",
+          "dateAdded": "2nd June, 2025",
+          "dateClosed": "-"
+        }
+      ]
+    },
+    {
+      "clientHouseHoldId": 2,
+      "name": "Nyugens",
+      "role": "Seller",
+      "stage": "Active",
+      "lastOnline": "21st June, 2025",
+      "priceRange": "-",
+      "leadSource": "Zillow",
+      "dateAdded": "18th May, 2025",
+      "dateClosed": "-",
+      "otherBuyerNames": []
+    },
+    {
+      "clientHouseHoldId": 3,
+      "name": "Summers",
+      "role": "Buyer",
+      "stage": "Active",
+      "lastOnline": "5th July, 2025",
+      "priceRange": "$400,000 – $600,000",
+      "leadSource": "Web",
+      "dateAdded": "2nd June, 2025",
+      "dateClosed": "-",
+      "otherBuyerNames": []
+    }
+  ],
+  "totalRecords": 3
+}
